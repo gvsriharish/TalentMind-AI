@@ -1,0 +1,28 @@
+Job Title: Senior AI & Deep Learning Research Engineer
+Domain: Artificial Intelligence & Machine Learning
+Department: Cognitive Research Lab
+Experience Required: 5+ Years
+Target Education: Master's or Ph.D. in Computer Science, Data Science, or Mathematics.
+
+About the Role:
+We are seeking an experienced Senior AI Engineer to join our core research team. You will be responsible for designing and implementing advanced Natural Language Processing (NLP) solutions, fine-tuning state-of-the-art transformer architectures, and setting up scalable semantic search vector databases. The ideal candidate has deep expertise in training models using PyTorch, writing complex SQL queries, and containerizing distributed microservices using Docker.
+
+Primary Responsibilities:
+- Design, fine-tune, and evaluate deep learning architectures (BERT, RoBERTa, custom GPTs) for dense text representation.
+- Construct scalable vector retrieval search indexes (FAISS, Milvus) for semantic alignment matches.
+- Optimize machine learning pipelines for latency, deployment throughput, and production-grade reliability.
+- Containerize models and APIs using Docker and FastAPI for integration with backend microservices on AWS.
+- Mentor junior NLP researchers and contribute to structural agile sprints.
+
+Required Technical Skills:
+- Advanced Programming: Python, SQL, C++, Bash scripting.
+- Deep Learning Frameworks: PyTorch, TensorFlow, Hugging Face Transformers.
+- Vector Retrieval: FAISS, Cosine Similarity, Dense embeddings.
+- ML Ops & Deployment: Docker, FastAPI, Git, CI/CD, AWS Cloud integrations.
+- Data Wrangling: Pandas, NumPy, Scikit-Learn.
+
+Required Soft Skills:
+- Clear technical communication.
+- Empathetic mentoring and peer feedback.
+- Critical thinking and problem-solving.
+- Agile cooperation.

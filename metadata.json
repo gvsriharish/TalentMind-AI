@@ -1,0 +1,6 @@
+{
+  "name": "TalentMind AI Candidate Ranking System",
+  "description": "An AI-powered candidate ranking and semantic search platform for recruiters, parsing job descriptions and candidate resumes to rank talent objectively with Explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+python-docx>=1.1.0
+scikit-learn>=1.4.0
+streamlit>=1.32.0
+plotly>=5.19.0
+tqdm>=4.66.0
+pyyaml>=6.0.1
+google-genai>=2.4.0
+pytest>=8.0.0

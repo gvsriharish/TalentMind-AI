@@ -1,0 +1,118 @@
+[
+    {
+        "id": "CAND_001",
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@talentmind.io",
+        "technical_skills": [
+            "Python",
+            "PyTorch",
+            "NLP",
+            "SQL",
+            "Docker",
+            "FastAPI",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Hugging Face",
+            "Git"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Leadership",
+            "Problem Solving"
+        ],
+        "education": {
+            "degree": "Master's",
+            "major": "Computer Science",
+            "institution": "Indian Institute of Technology (IIT) Bombay"
+        },
+        "years_of_experience": 6.5,
+        "certifications": [
+            "AWS Certified Solutions Architect",
+            "TensorFlow Developer Certificate"
+        ],
+        "achievements": [
+            "Hackathon Winner 2025",
+            "Top 1% on Kaggle"
+        ],
+        "work_experience": [
+            {
+                "title": "Senior AI Research Engineer",
+                "company": "Global AI Systems",
+                "duration_years": 4.0,
+                "description": "Led fine-tuning and evaluation of deep learning models (BERT, RoBERTa, custom GPTs) for dense text representations. Managed containerization using Docker."
+            },
+            {
+                "title": "Software Developer",
+                "company": "Infotech Solutions",
+                "duration_years": 2.5,
+                "description": "Constructed scalable data processing pipelines in Python and PostgreSQL."
+            }
+        ],
+        "projects": [
+            {
+                "title": "LLM RAG Engine",
+                "description": "Designed custom Transformer model and fine-tuned it on proprietary legal datasets using PyTorch and Hugging Face."
+            }
+        ],
+        "behavioral_signals": {
+            "hackathons_completed": 3,
+            "open_source_contributions": 12,
+            "leadership_roles": 1,
+            "platform_commits": 450,
+            "active_days_per_month": 18
+        }
+    },
+    {
+        "id": "CAND_002",
+        "name": "Aditi Patel",
+        "email": "aditi.patel@talentmind.io",
+        "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Git"
+        ],
+        "soft_skills": [
+            "Collaboration",
+            "Critical Thinking",
+            "Adaptability"
+        ],
+        "education": {
+            "degree": "Bachelor's",
+            "major": "Data Science",
+            "institution": "BITS Pilani"
+        },
+        "years_of_experience": 3.2,
+        "certifications": [
+            "Google Cloud Professional Data Engineer"
+        ],
+        "achievements": [
+            "Dean's List for Academic Excellence"
+        ],
+        "work_experience": [
+            {
+                "title": "Machine Learning Engineer",
+                "company": "Kognitive Labs",
+                "duration_years": 3.2,
+                "description": "Built predictive models and analytical dashboards using TensorFlow, Scikit-Learn, and Python."
+            }
+        ],
+        "projects": [
+            {
+                "title": "Distributed Scalable Tracker",
+                "description": "Created custom real-time spatial analytics dashboard in GCP with scikit-learn forecasts."
+            }
+        ],
+        "behavioral_signals": {
+            "hackathons_completed": 1,
+            "open_source_contributions": 2,
+            "leadership_roles": 0,
+            "platform_commits": 140,
+            "active_days_per_month": 12
+        }
+    }
+]
