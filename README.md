@@ -249,7 +249,7 @@ python validate.py
 
 ## 👨‍💻 Author
 
-**Sriharish G V**
+**GV Sriharish **
 
 B.Tech – Artificial Intelligence & Data Science
 
